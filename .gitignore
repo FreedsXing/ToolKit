@@ -1,0 +1,13 @@
+#全局忽略
+
+.gradle/
+.idea/
+gradle/
+
+*.iml
+/local.properties
+
+
+#app模块 忽略
+app/build/
+app/*.iml
